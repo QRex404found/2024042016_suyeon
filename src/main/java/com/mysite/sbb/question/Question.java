@@ -1,6 +1,7 @@
-package com.mysite.sbb;
+package com.mysite.sbb.question;
 
 import java.time.LocalDateTime;
+
 import java.util.List;
 
 import jakarta.persistence.CascadeType;
@@ -13,6 +14,7 @@ import jakarta.persistence.OneToMany;
 
 import lombok.Getter;
 import lombok.Setter;
+import com.mysite.sbb.answer.Answer;
 
 @Getter
 @Setter

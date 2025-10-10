@@ -1,0 +1,7 @@
+textarea{
+	width: 100%;
+}
+
+input[tpe=submit]{
+	margin-top:10px;
+}
